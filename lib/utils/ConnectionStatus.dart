@@ -4,4 +4,5 @@ enum Connectionstatus {
   wifiNoInternet,
   connectedToMobile,
   noInternetConnection,
+  internetAvailableButNoConnection,
 }
